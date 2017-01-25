@@ -1,0 +1,4 @@
+parsel==1.1.0
+scrapy==1.2
+js2xml==0.2.2
+dateparser==0.5.1

@@ -1,0 +1,8 @@
+*.pyc
+*.json
+*.xml
+*.html
+venv/
+.scrapy/
+build/
+project.egg-info/

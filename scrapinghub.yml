@@ -1,0 +1,6 @@
+projects:
+  default: 141648
+stacks:
+  default: scrapy:1.2
+version: GIT
+requirements_file: requirements.txt
